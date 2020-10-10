@@ -15,6 +15,7 @@
     "@expo/vector-icons": "^10.0.0",
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.8.0",
+    "@react-navigation/material-top-tabs": "^5.2.19",
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
     "expo": "~39.0.2",
@@ -29,8 +30,10 @@
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
     "react-native-gesture-handler": "~1.7.0",
+    "react-native-reanimated": "^1.13.1",
     "react-native-safe-area-context": "3.1.4",
     "react-native-screens": "~2.10.1",
+    "react-native-tab-view": "^2.15.2",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
