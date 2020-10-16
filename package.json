@@ -14,10 +14,13 @@
   "dependencies": {
     "@expo/vector-icons": "^10.0.0",
     "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/netinfo": "^5.9.7",
     "@react-navigation/bottom-tabs": "^5.8.0",
     "@react-navigation/material-top-tabs": "^5.2.19",
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
+    "aws-amplify": "^3.3.4",
+    "aws-amplify-react-native": "^4.2.7",
     "expo": "~39.0.2",
     "expo-asset": "~8.2.0",
     "expo-constants": "~9.2.0",
