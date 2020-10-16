@@ -6,5 +6,22 @@
 			"dependsOn": [],
 			"customAuth": false
 		}
+	},
+	"api": {
+		"whatsappclone": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"authConfig": {
+					"defaultAuthentication": {
+						"authenticationType": "AMAZON_COGNITO_USER_POOLS",
+						"userPoolConfig": {
+							"userPoolId": "authwhatsappclonea764e33c"
+						}
+					},
+					"additionalAuthenticationProviders": []
+				}
+			}
+		}
 	}
 }
